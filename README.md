@@ -1,6 +1,6 @@
 # ProcessWire
 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/processwire.webp" width="48" height="48" alt="ProcessWire">
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/processwire2.webp" width="48" height="48" alt="ProcessWire">
 
 **ProcessWire 3.0.255** – Le CMS open source puissant, flexible et orienté développeurs pour créer des sites web sur mesure.
 
